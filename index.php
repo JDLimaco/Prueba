@@ -8,11 +8,13 @@
 </head>
 <body>
     <header>
-    areareare
         --------------------Este es el header-------------------------
     </header>
     <main>
         Este es el main
+        <div>
+            <?php echo 'Esto fue escrito con php' ?> 
+        </div>
         <div>
             Aqui ira la imagen
             <div>
